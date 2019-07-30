@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
+    name = "Nos Tarif"
     URL = "pricing"
     weight = 6
 
@@ -44,13 +44,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 7
 
     [[menu.nav]]
-    name = "Contact"
+    name = "Contactez nous !"
     URL = "contact-us"
     weight = 8
 
 # Site params
 [params]
-home= "Home"
+home= "Acceuil"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
@@ -68,40 +68,40 @@ custom_css = ["css/custom.css"]
     heading = "Vos données, notre information !"
     content= "Argumentez vos idées par des chiffres et des graphiques"
     btn = true
-    btnText="Explore Us"
+    btnText="Notre CV"
     btnURL="#services"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    title = "Des passionnés de la recherche"
+    content = "Notre passion à la recherche fait toute la différence"
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = "Débutez un projet avec nous !"
 
     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Des Clients Heureux"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "60 et +"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Projets complétés avec succès"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "40 et +"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Feedback Positifs"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "9  et +"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Partages d'expériences"
         icon = "tf-ion-coffee"
-        count = "2500"
+        count = "25 et +"
 
     # footer
     [params.footer]
