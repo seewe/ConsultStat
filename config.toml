@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "ConsultStat"
 theme = "meghna-hugo"
 summaryLength = 10
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -14,22 +14,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "À propos de nous"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Nos services"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "Notre porte feuille"
     URL = "portfolio"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
+    name = "Notre Équipe"
     URL = "our-team"
     weight = 5
 
