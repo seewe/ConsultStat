@@ -1,6 +1,6 @@
 enable : true
-heading : Our
-headingSpan : Works
+heading : Nos
+headingSpan : Travaux
 filterList :
   - filterType : photography
     filterTitle : Photography

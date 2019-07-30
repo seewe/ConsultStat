@@ -1,8 +1,8 @@
 enable : true
-heading : Our
-headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+heading : Nos
+headingSpan : Compétences
+title : Ouvert sur plusieurs domaines.
+content : L'outil informatique nous permet d\'exprimer nos compétences dans plusieurs domaines de la vie.
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-

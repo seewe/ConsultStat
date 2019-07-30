@@ -1,20 +1,22 @@
 enable : true
-heading : Get In
-headingSpan : Touch
-title : Nous contacter
+heading : Nous
+headingSpan : Joindre
+title : Nos coordonnées
 content : Appelez nous ou laissez nous un message et nous nous ferons le plaisir de vous répondre
 enable_maps : true
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Sergio Ewane, Mamadou Yauck"
+    info : "Sergio Ewane, Arno Mboke"
     
   - icon : tf-ion-ios-telephone-outline
     info : "Phone: +1 581 578 9352"
+    info : "Phone: +237 676 770 177"
     
   - icon : tf-ion-social-whatsapp-outline
     info : "whatsapp: +1 581 578 9352"
+    info : "whatsapp: +237 676 770 177"
     
   - icon : tf-ion-ios-email-outline
     info : "Email: eebouele@gmail.com"
