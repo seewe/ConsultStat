@@ -84,24 +84,24 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Des Clients Heureux"
+        title = "Clients Heureux"
         icon = "tf-ion-android-happy"
-        count = "60 et +"
+        count = "+ de 60"
 
         [[params.counter.counterItem]]
         title = "Projets complétés avec succès"
         icon = "tf-ion-archive"
-        count = "40 et +"
+        count = "+ de 40"
 
         [[params.counter.counterItem]]
         title = "Feedback Positifs"
         icon = "tf-ion-thumbsup"
-        count = "9  et +"
+        count = "+ de 60"
 
         [[params.counter.counterItem]]
         title = "Partages d'expériences"
         icon = "tf-ion-coffee"
-        count = "25 et +"
+        count = "+ de 25"
 
     # footer
     [params.footer]
@@ -111,28 +111,32 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/sergio.ebouele"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-twitter"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-google-outline"
+        #url = "#"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/"
 
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+        icon = "tf-ion-social-github"
+        url = "https://github.com/seewe"
+        
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-linkedin"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-dribbble-outline"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-pinterest-outline"
+        #url = "#"
