@@ -3,13 +3,13 @@ heading : About
 headingSpan : Us
 aboutItem : 
 - icon : tf-tools
-  title : We're Creative
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Des Professionnels
+  content : Formés dans des écoles de renommée internationale, Dotés de plus de 5 années d\'expériences de terrain.
 
 - icon : tf-strategy
-  title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : À l'Écoute
+  content : Pour vous comprendre et vous proposer des solutions personnalisées.
 
 - icon : tf-anchor2
-  title : We're Genius
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Précis et Ponctuel
+  content : Dans leur réponse et Dans la livraison des travaux.

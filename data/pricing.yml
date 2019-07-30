@@ -1,6 +1,6 @@
 enable : true
-heading : Our Greatest
-headingSpan : Plans
+heading : Nos
+headingSpan : Plans Tarifaires
 pricingTable :
   - title : Free
     price : $99

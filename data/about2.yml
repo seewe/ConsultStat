@@ -1,13 +1,13 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : Nous évoluons avec la technologie.
+description : Notre équipe est jeune, dynamique et pasionné de tout ce qui touche les nouvelles technologie.
+description2 : Nous offrons des solutions mobiles et intuitif pour vous faciliter la vie et rendre vos idées vivantes.
 aboutItem : 
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-ion-laptop
+    title : Programmation informatique
+    content : Nous developpons le paradigme de la recherche reproductible.
     
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon :  tf-ion-social-buffer-outline
+    title : Analyse de données
+    content : Nous mettons àa votre disposition toute l'information des données que vous collectez.

@@ -1,21 +1,21 @@
 enable : true
 heading : Get In
 headingSpan : Touch
-title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+title : Nous contacter
+content : Appelez nous ou laissez nous un message et nous nous ferons le plaisir de vous répondre
 enable_maps : true
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "Sergio Ewane, Mamadou Yauck"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: +1 581 578 9352"
     
-  - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+  - icon : tf-ion-social-whatsapp-outline
+    info : "whatsapp: +1 581 578 9352"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: eebouele@gmail.com"
     

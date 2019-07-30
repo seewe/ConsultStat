@@ -1,27 +1,27 @@
 enable : true
-heading : Our
+heading : Nos
 headingSpan : Services
 serviceItem :
-  - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-network
+    title : Machine learning
+    content : Utilisation des algorithmes de machine learning pour résoudre les problématiques de prédiction.
+    
+  - icon : tf-ion-ios-film-outline
+    title : Youtubeur
+    content : Conception et maintient d'une chaîne Youtube
+    
+  - icon : tf-ion-ios-pie-outline
+    title : Étude de marché
+    content : Réalisation des études de marchés, segmentation de la clientelle et des sondages d'opinions.
+    
+  - icon : tf-ion-android-home
+    title : Graphic Design
+    content : Conception des plans de maisons en 3D et calcul des dévis.
     
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Developpement des applications
+    content : Developpement des shiny app avec R
     
-  - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-ios-people-outline
+    title : Réseautage
+    content : Organisation des formations continues et des séminaires.
