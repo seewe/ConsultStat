@@ -33,10 +33,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     URL = "our-team"
     weight = 5
 
-    [[menu.nav]]
-    name = "Nos Tarif"
-    URL = "pricing"
-    weight = 6
+    #[[menu.nav]]
+    #name = "Nos Tarif"
+    #URL = "pricing"
+    #weight = 6
 
     [[menu.nav]]
     name = "Blog"
@@ -65,7 +65,7 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Vos données, notre information !"
+    heading = "Une requête, des informations !"
     content= "Argumentez vos idées par des chiffres et des graphiques"
     btn = true
     btnText="Notre CV"
