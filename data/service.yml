@@ -5,6 +5,7 @@ serviceItem :
   - icon : tf-ion-network
     title : Machine learning
     content : Utilisation des algorithmes de machine learning pour résoudre les problématiques de prédiction.
+    URL : #
     
   - icon : tf-ion-ios-film-outline
     title : Youtubeur
