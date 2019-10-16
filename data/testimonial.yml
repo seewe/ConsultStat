@@ -4,14 +4,14 @@ testimonialItem :
   - name : Jonathon Andrew
     image : images/team/client-1.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : Nous sommes là pour vous !
     
-  - name : Jonathon Andrew
+  - name : Arno Bienvenu
     image : images/team/client-2.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : Vous nous donnez la force d'avancer !
     
-  - name : Jonathon Andrew
+  - name : Ange Valère Kiki
     image : images/team/client-1.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : Vous c'est nous !

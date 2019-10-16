@@ -16,19 +16,19 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-2.jpg
-    name : Mamadou Yauck
-    designation : Data Analyst
-    description : Notre Spécialiste en Analyse de données
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+  #- image : images/team/team-2.jpg
+  #  name : Mamadou Yauck
+  #  designation : Data Analyst
+  #  description : Notre Spécialiste en Analyse de données
+  #  socialIcon :
+  #    - icon : tf-ion-social-facebook
+  #      url : "#"
+  #    - icon : tf-ion-social-twitter
+  #      url : "#"
+  #    - icon : tf-ion-social-linkedin
+  #      url : "#"
+  #    - icon : tf-ion-social-dribbble-outline
+  #      url : "#"
       
   - image : images/team/team-3.jpg
     name : Arno Mboke
@@ -36,7 +36,7 @@ teamMember :
     description : Notre spécialiste en génie civil
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/arnobv.mboke"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin

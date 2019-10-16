@@ -1,8 +1,8 @@
 enable : true
 image : images/about/about-business-man.jpg
 title : Nous évoluons avec la technologie.
-description : Notre équipe est jeune, dynamique et pasionné de tout ce qui touche les nouvelles technologie.
-description2 : Nous offrons des solutions mobiles et intuitif pour vous faciliter la vie et rendre vos idées vivantes.
+description : Notre équipe est jeune, dynamique et pasionné de tout ce qui touche les nouvelles technologies.
+description2 : Nous offrons des solutions mobiles et intuitives pour vous faciliter la vie et rendre vos idées vivantes.
 aboutItem : 
   - icon : tf-ion-laptop
     title : Programmation informatique
