@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Menu
 [menu]
     [[menu.nav]]
-    name = "À propos de nous"
+    name = "Nous"
     URL = "about"
     weight = 2
 
@@ -24,14 +24,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 
     [[menu.nav]]
-    name = "Notre porte feuille"
-    URL = "portfolio"
+    name = "Nos competences"
+    URL = "skill"
     weight = 4
+
+    [[menu.nav]]
+    name = "Nos travaux"
+    URL = "portfolio"
+    weight = 5
 
     [[menu.nav]]
     name = "Notre Équipe"
     URL = "our-team"
-    weight = 5
+    weight = 6
 
     #[[menu.nav]]
     #name = "Nos Tarif"

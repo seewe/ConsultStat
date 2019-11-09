@@ -8,7 +8,7 @@ teamMember :
     description : Notre Spécialiste en developpement web
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/sergio.ebouele"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin
@@ -16,6 +16,36 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
+  - image : images/team/elvis.PNG
+    name : Elvis Fotsi
+    designation : Data Analyst
+    description : Notre Spécialiste en Analyse de données
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+        
+        
+  - image : images/team/cedric.JPG
+    name : Cédrick Ngoko
+    designation : Data Analyst
+    description : Notre Spécialiste en Collecte de données
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+  
+  
   #- image : images/team/team-2.jpg
   #  name : Mamadou Yauck
   #  designation : Data Analyst
@@ -29,6 +59,7 @@ teamMember :
   #      url : "#"
   #    - icon : tf-ion-social-dribbble-outline
   #      url : "#"
+  
       
   - image : images/team/team-3.jpg
     name : Arno Mboke

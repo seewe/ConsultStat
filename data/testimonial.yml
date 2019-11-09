@@ -1,17 +1,17 @@
 enable : true
 bgImage : images/backgrounds/bg-2.jpg
 testimonialItem :
-  - name : Jonathon Andrew
+  - name : Sébastient Djienouassi
     image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Nous sommes là pour vous !
+    date : Jan 10, 2019
+    content : Une équipe de choc, prêt à l'action!
     
-  - name : Arno Bienvenu
+  - name : Alain Azef
     image : images/team/client-2.jpg
-    date : Dec 26, 2018
-    content : Vous nous donnez la force d'avancer !
+    date : Avr 15, 2018
+    content : La performance de cette équipe est à couper le souffle !
     
-  - name : Ange Valère Kiki
-    image : images/team/client-1.jpg
+  - name : Isambert Leunga
+    image : images/team/client-3.jpg
     date : Dec 26, 2018
-    content : Vous c'est nous !
+    content : Des personnes saines d'esprit pour des réponses précises !

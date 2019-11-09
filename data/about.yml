@@ -1,15 +1,16 @@
 enable : true
-heading : About
-headingSpan : Us
+heading : À propos de
+headingSpan : Nous
 aboutItem : 
 - icon : tf-tools
   title : Des Professionnels
-  content : Formés dans des écoles de renommée internationale, Dotés de plus de 5 années d\'expériences de terrain.
+  content : Formés dans des écoles de renommée internationale, Dotés de plus de 5 années d'expériences de terrain.
 
-- icon : tf-strategy
+- icon : tf-ion-ios-chatboxes-outline
   title : À l'Écoute
   content : Pour vous comprendre et vous proposer des solutions personnalisées.
 
-- icon : tf-anchor2
+- icon : tf-ion-ios-calendar-outline
   title : Précis et Ponctuel
   content : Dans leur réponse et Dans la livraison des travaux.
+  

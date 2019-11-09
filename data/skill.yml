@@ -2,25 +2,29 @@ enable : true
 heading : Nos
 headingSpan : Compétences
 title : Ouvert sur plusieurs domaines.
-content : L'outil informatique nous permet d\'exprimer nos compétences dans plusieurs domaines de la vie.
+content : L'informatique pour exprimer nos compétences dans plusieurs domaines de la vie.
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
-    itemPercent : 90%
-    
-  - itemNumber : 02-
-    itemName :  Analysis
-    itemPercent : 70%
-    
-  - itemNumber : 03-
-    itemName :  Design
-    itemPercent : 80%
-    
-  - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  Business Intelligence
     itemPercent : 95%
     
+  - itemNumber : 02-
+    itemName :  Data Analysis
+    itemPercent : 100%
+    
+  - itemNumber : 03-
+    itemName :  Design of experiment
+    itemPercent : 99%
+    
+  - itemNumber : 04-
+    itemName :  Shiny App development
+    itemPercent : 99%
+    
   - itemNumber : 05-
-    itemName :  Andriod Development
-    itemPercent : 75%
+    itemName :  CS Pro mobile entry development
+    itemPercent : 95%
+    
+  - itemNumber : 06-
+    itemName :  Survey management
+    itemPercent : 95%
