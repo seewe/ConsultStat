@@ -12,12 +12,20 @@ contactDetails :
     
   - icon : tf-ion-ios-telephone-outline
     info : "Phone: +237 654 803 831"
+    
+  - icon : tf-ion-ios-telephone-outline
     info : "Phone: +237 676 770 177"
+    
+  - icon : tf-ion-ios-telephone-outline
     info : "Phone: +237 679 343 107"
     
   - icon : tf-ion-social-whatsapp-outline
     info : "whatsapp: +237 654 803 831"
+    
+  - icon : tf-ion-social-whatsapp-outline
     info : "whatsapp: +237 676 770 177"
+    
+  - icon : tf-ion-social-whatsapp-outline
     info : "whatsapp: +237 679 343 107"
     
   - icon : tf-ion-ios-email-outline

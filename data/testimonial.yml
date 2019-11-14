@@ -11,6 +11,11 @@ testimonialItem :
     date : Avr 15, 2018
     content : La performance de cette équipe est à couper le souffle !
     
+  - name : Mamadou Yauck
+    image : images/team/client-4.jpg
+    date : Mrs 30, 2019
+    content : Un expert ne peut que s'unir avec des experts et créer des étincelles !
+    
   - name : Isambert Leunga
     image : images/team/client-3.jpg
     date : Dec 26, 2018

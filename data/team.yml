@@ -2,7 +2,7 @@ enable : true
 heading : Notre
 headingSpan : Équipe
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/sergio.JPG
     name : Sergio Ewane
     designation : R web developper
     description : Notre Spécialiste en developpement web
@@ -16,7 +16,7 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/elvis.PNG
+  - image : images/team/elvis.JPG
     name : Elvis Fotsi
     designation : Data Analyst
     description : Notre Spécialiste en Analyse de données
@@ -46,22 +46,7 @@ teamMember :
         url : "#"
   
   
-  #- image : images/team/team-2.jpg
-  #  name : Mamadou Yauck
-  #  designation : Data Analyst
-  #  description : Notre Spécialiste en Analyse de données
-  #  socialIcon :
-  #    - icon : tf-ion-social-facebook
-  #      url : "#"
-  #    - icon : tf-ion-social-twitter
-  #      url : "#"
-  #    - icon : tf-ion-social-linkedin
-  #      url : "#"
-  #    - icon : tf-ion-social-dribbble-outline
-  #      url : "#"
-  
-      
-  - image : images/team/team-3.jpg
+  - image : images/team/arno.JPG
     name : Arno Mboke
     designation : House Disigner
     description : Notre spécialiste en génie civil
@@ -75,10 +60,12 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  #- image : images/team/team-4.jpg
-  #  name : Mo. Kha. Alamgir
-  #  designation : SEO Specialist
-  #  description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  
+  
+ #- image : images/team/team-2.jpg
+  #  name : Mamadou Yauck
+  #  designation : Data Analyst
+  #  description : Notre Spécialiste en Analyse de données
   #  socialIcon :
   #    - icon : tf-ion-social-facebook
   #      url : "#"
