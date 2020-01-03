@@ -74,6 +74,7 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
+    bgImage = "images/backgrounds/bg-11-1.jpg"
     title = "Des passionnés de la recherche"
     content = "Notre passion à la recherche fait toute la différence"
     btnURL = "#"
