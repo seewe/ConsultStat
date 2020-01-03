@@ -36,6 +36,17 @@
   </url>
   
   <url>
+    <loc>/author/seewe/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/simple-post-test/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>

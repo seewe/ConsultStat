@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Simple Post Test</title>
+      <link>/blog/simple-post-test/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      
+      <guid>/blog/simple-post-test/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
       <title>Simple Post Title</title>
       <link>/blog/simple-post-title/</link>
       <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
