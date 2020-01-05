@@ -16,7 +16,7 @@ portfolioItem :
     image : images/portfolio/portfolio-1.jpg
     icon : tf-ion-android-search
     URL :  https://seeweinr.shinyapps.io/simulaTree/
-    title : Tag Design
+    title : Tag Design tree
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
   - types : development
